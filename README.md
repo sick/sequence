@@ -5,6 +5,7 @@ Sequence module from awesome cgkit library
 http://cgkit.sourceforge.net/doc2/sequence.html
 
 Quick example
+
 	import sequence
 	sequences = sequence.glob('pattern or path to directory or partial name')
 
